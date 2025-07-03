@@ -4,13 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jumanashridh&label=Profile%20views&color=0e75b6&style=flat" alt="jumanashridh" /> </p>
 
-- 🔭 I’m currently working on **ZeroTrace**
+- 🔭 I’m currently working on **ZeroTrace , a unified web vulnerability scanning tool that detects common threats like SQL Injection, XSS, CSRF, and more. It combines multiple scanning techniques into one platform to simplify and enhance the web application security testing process.**
 
-- 👯 I’m looking to collaborate on **Open-source cybersecurity projects**
+- 🌱 I’m currently learning **Python scripts for cybersecurity**
+
+- 👯 I’m looking to collaborate on **Python-based security projects and automation tools. I'm particularly interested in scripting for vulnerability scanning, penetration testing, and building custom cybersecurity utilities that make security testing more efficient and accessible.**
+
+- 📫 How to reach me **Phone: 0780557429 Email: jumanabaniabdalruhman@gmail.com LinkedIn: linkedin.com/in/jumana-baniabdalruhman-542a17298**
+
+- 📄 Know about my experiences [Jumana__CV.pdf](Jumana__CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jumanashridh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jumanashridh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jumana baniabdalruhman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jumana baniabdalruhman" height="30" width="40" /></a>
+<a href="https://instagram.com/jumana__shridh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jumana__shridh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
